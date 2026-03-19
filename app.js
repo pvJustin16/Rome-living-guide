@@ -1,5 +1,5 @@
 /* ═══════════════════════════════════════════════════════════
-   WHERE SHOULD YOU LIVE IN ROME? — Pure Vanilla JS
+   WHERE SHOULD YOU RENT IN ROME? — Pure Vanilla JS
    Data: immobiliare.it (Jan 2026), Google Maps, ATAC, ISTAT
    ═══════════════════════════════════════════════════════════ */
 
